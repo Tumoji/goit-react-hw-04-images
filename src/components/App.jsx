@@ -4,7 +4,7 @@ import Searchbar from './Searchbar';
 import './styles.css';
 
 export const App = () => {
-  const [searchedImages, setSearchedImages] = useState([]);
+  const [ , setSearchedImages] = useState([]);
 
   return (
     <section>
